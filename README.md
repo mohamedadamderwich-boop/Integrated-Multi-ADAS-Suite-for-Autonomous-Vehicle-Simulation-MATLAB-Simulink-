@@ -8,7 +8,8 @@ Contrôle Longitudinal ($v$) : Arbitrage entre la vitesse de croisière (ACC) et
 Contrôle Latéral ($\delta$) : Asservissement de direction pour le maintien de voie (LKA) et bifurcation dynamique vers une voie d'évitement (ESA).
 ## Modélisation Mathématique
 
-Les équations de votre Subsystem 2 :
+Les équations de mon Subsystem :
+
 $$\dot{x} = v \cdot \cos(\theta)$$
 
 $$\dot{y} = v \cdot \sin(\theta)$$
